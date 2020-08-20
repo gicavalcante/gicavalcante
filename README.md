@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/2e/f8/69/2ef86909bb721489c1b8e9049e438e69.png">
 
 
-I'm a software engineer based in Brazil who is passionate about coding, creating open-source technologies and making then more accessible. Some technologies I enjoy working with include ReactJS and Jamstack (JavaScript, APIs + Markup),I also have fun working with digital marketing and supporting women developers communities.💜✨
+I'm a software engineer based in Brazil who is passionate about coding, creating open-source technologies and making then more accessible. Some technologies I enjoy working with include ReactJS and Jamstack (JavaScript, APIs + Markup), I also have fun working with digital marketing and supporting women developers communities.💜✨
 
 
 ## Find me around the web 🌎:
