@@ -8,9 +8,8 @@ I'm a software engineer based in Brazil who is passionate about coding, creating
 
 ## Find me around the web 🌎:
 
-<p class="gioctogat" m-r: 20px>
-  <img src="https://i.pinimg.com/originals/da/b7/da/dab7da9898839075a66aad18e0eba473.png" float:"left">
-</p>
+  <img src="https://i.pinimg.com/originals/da/b7/da/dab7da9898839075a66aad18e0eba473.png">
+  
  - Sharing my updates on <a href="https://linkedin.com/in/giovannacavalcante"> LinkedIn </a>.💼 
 - Taking photos on <a href="https://instagram/in/giovanna.cavalcante"> Instagram </a>.📸🎴 
 - Sharing thoughts on <a href="https://twitter.com/GvnCavalcante"> Twitter </a>.🐦 
