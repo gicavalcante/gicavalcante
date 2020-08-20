@@ -9,8 +9,10 @@ Some technologies I enjoy working with include ReactJS and Jamstack (JavaScript,
 
 ## Find me around the web 🌎:
 
-<img src="https://i.pinimg.com/564x/0c/19/da/0c19daf3bda07aa4afd5622da2df7d42.jpg">
+<p class="gioctogat" m-r: 20px>
+  <img src="https://i.pinimg.com/originals/da/b7/da/dab7da9898839075a66aad18e0eba473.png" float:"left">
+</p>
 
-- Sharing my updates on <a href="https://linkedin.com/in/giovannacavalcante"> LinkedIn </a>.💼
-- Taking photos on <a href="https://instagram/in/giovanna.cavalcante"> Instagram </a>.📸🎴
-- Sharing thoughts on <a href="https://twitter.com/GvnCavalcante"> Twitter </a>.🐦
+<div class="first" float:"right"> - Sharing my updates on <a href="https://linkedin.com/in/giovannacavalcante"> LinkedIn </a>.💼 </div>
+<div class="second" float:"right">- Taking photos on <a href="https://instagram/in/giovanna.cavalcante"> Instagram </a>.📸🎴 </div>
+<div class="third" float:"right">- Sharing thoughts on <a href="https://twitter.com/GvnCavalcante"> Twitter </a>.🐦 </div>
