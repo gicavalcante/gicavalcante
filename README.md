@@ -11,5 +11,5 @@ I'm a software engineer based in Brazil who is passionate about coding, creating
   <img src="https://i.pinimg.com/originals/da/b7/da/dab7da9898839075a66aad18e0eba473.png">
   
  - Sharing my updates on <a href="https://linkedin.com/in/giovannacavalcante"> LinkedIn </a>.💼 
-- Taking photos on <a href="https://instagram/giovanna.cavalcante"> Instagram </a>.📸🎴 
+- Taking photos on <a href="https://instagram.com/giovanna.cavalcante"> Instagram </a>.📸🎴 
 - Sharing thoughts on <a href="https://twitter.com/GvnCavalcante"> Twitter </a>.🐦 
